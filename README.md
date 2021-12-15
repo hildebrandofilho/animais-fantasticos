@@ -26,19 +26,11 @@ Faça um clone deste repositório:
 Instale as dependências:
 
 ```sh
-  # com npm
   $ npm install
-
-  # com yarn
-  $ yarn install
 ```
 
 Inicie o projeto com o comando:
 
 ```sh
-  # com npm
   $ npm run dev
-
-  # com yarn
-  $ yarn run dev
 ```
