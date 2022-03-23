@@ -1,4 +1,4 @@
-# Animais Fantásticos - Origamid
+# Animais Fantásticos
 
 Projeto desenvolvido no curso de JavaScript Completo ES6+ da Origamid, indo do básico ao avançado através de manipulações do DOM e requisições via Fetch API.
 
